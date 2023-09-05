@@ -17,9 +17,9 @@ public class Assignment {
                 case 1:
                     //Calculator
                     double n1, n2, result;
-                    System.out.print("Enter first number (n1): ");
+                    System.out.print("Enter n1: ");
                     n1 = sc.nextDouble();
-                    System.out.print("Enter second number (n2): ");
+                    System.out.print("Enter n2: ");
                     n2 = sc.nextDouble();
                     System.out.println("1) Addition");
                     System.out.println("2) Subtraction");
