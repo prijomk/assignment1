@@ -26,8 +26,8 @@ public class Question1 {
             }
         }
 
-        System.out.println("Total vowels in word: " + countv);
-        System.out.println("Total consonants in word: " + countc);
+        System.out.println("Total vowels number in word: " + countv);
+        System.out.println("Total consonants number in word: " + countc);
     }
 }
 
